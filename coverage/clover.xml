@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1577919813199" clover="3.2.0">
-  <project timestamp="1577919813199" name="All files">
+<coverage generated="1577998077955" clover="3.2.0">
+  <project timestamp="1577998077955" name="All files">
     <metrics statements="40" coveredstatements="40" conditionals="27" coveredconditionals="27" methods="11" coveredmethods="11" elements="78" coveredelements="78" complexity="0" loc="40" ncloc="40" packages="1" files="4" classes="4"/>
     <file name="FizzBuzz.js" path="D:\hacettepe\YazılımDoğrulamaGeçerleme\proje\javascript_project\JEST_prj\src\FizzBuzz.js">
       <metrics statements="13" coveredstatements="13" conditionals="17" coveredconditionals="17" methods="4" coveredmethods="4"/>
-      <line num="25" count="1" type="stmt"/>
-      <line num="28" count="8" type="cond" truecount="5" falsecount="0"/>
-      <line num="29" count="3" type="stmt"/>
-      <line num="31" count="5" type="cond" truecount="4" falsecount="0"/>
-      <line num="32" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="33" count="3" type="cond" truecount="2" falsecount="0"/>
-      <line num="35" count="2" type="stmt"/>
-      <line num="38" count="1" type="stmt"/>
-      <line num="39" count="9" type="cond" truecount="2" falsecount="0"/>
-      <line num="42" count="1" type="stmt"/>
-      <line num="43" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="46" count="1" type="stmt"/>
-      <line num="51" count="1" type="stmt"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="8" type="cond" truecount="5" falsecount="0"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="7" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
     </file>
     <file name="MergeSort.js" path="D:\hacettepe\YazılımDoğrulamaGeçerleme\proje\javascript_project\JEST_prj\src\MergeSort.js">
       <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
@@ -48,9 +48,9 @@
     <file name="UcgenAlani.js" path="D:\hacettepe\YazılımDoğrulamaGeçerleme\proje\javascript_project\JEST_prj\src\UcgenAlani.js">
       <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="4" type="cond" truecount="4" falsecount="0"/>
       <line num="4" count="2" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
       <line num="11" count="1" type="stmt"/>
       <line num="15" count="1" type="stmt"/>
     </file>

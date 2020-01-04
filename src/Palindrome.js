@@ -1,13 +1,19 @@
 const Palindrome = () => {
     function palindromeBul(str) {
-        var re = /[\W_]/g;
-        var lowRegStr = str.toLowerCase().replace(re, '');
-        var reverseStr = lowRegStr.split('').reverse().join(''); 
-        return reverseStr === lowRegStr;
-      }
+        var re = /[^A-Za-z0-9]/g;
+        str = str.toLowerCase().replace(re, '');
+        var len = str.length;
+        for (var i = 0; i < len / 2; i++) {
+            if (str[i] !== str[len - 1 - i]) {
+                return false;
+            }
 
+            return true;
+        }
+    }
     return {
         palindromeBul: palindromeBul
+
     }
 };
 module.exports = Palindrome();
